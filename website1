@@ -1,0 +1,39 @@
+<html>
+<head>
+<title> 
+ basics for html (this is an title)
+</title>
+</head>
+<body>
+<h1> h1 is the biggest line </h1>
+<h6> h6 is the smallest line </h6>
+<h3> anything beteewn h1 and h6 like h3 is bigger or smaller </h3>
+
+
+ <ol>
+    <li>https://pokemondb.net/</li>
+    <li>https://hangouts.google.com/</li>
+    <li>https://www.tiktok.com/?lang=en</li> 
+</ol>
+<h3> that was an ordered list </h3>
+
+
+
+<ul>
+ <li>https://pokemondb.net/</li>
+ <li>https://hangouts.google.com/</li>
+ <li>https://www.tiktok.com/?lang=en</li>
+</ul>
+
+
+<h3> that was an unordered list </h3>
+<h3> these are hyper links below, they are used for shortcuts to different websites </h3>
+
+  <li><a href="https://pokemondb.net">This is a link to the pokemon site !</a></li> 
+  <li><a href="https://hangouts.google.com">This is a link to the hangouts site !</a></li> 
+  <li><a href="https://www.tiktok.com">This is a link to the tictok site !</a></li>
+    
+   <h3> there is an <p></p> code, but IDK what it does </h3>
+  
+  <h2> you can test your code at the link below </h2>
+  <li>https://codepad.co/playground</li>
