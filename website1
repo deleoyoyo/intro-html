@@ -1,39 +1,74 @@
+<!DOCTYPE html>
 <html>
 <head>
-<title> 
- basics for html (this is an title)
-</title>
+  <title> Leo's Home Page </title>
+  <!-- <script src="https://cdn.tailwindcss.com"></script> -->
 </head>
-<body>
-<h1> h1 is the biggest line </h1>
-<h6> h6 is the smallest line </h6>
-<h3> anything beteewn h1 and h6 like h3 is bigger or smaller </h3>
 
+<body style="background-color:blue">
+  <h1 style="color:lightblue;">Hi I am Leo my favorite toy is pokemon cards </h1>
+  <h6> just a fact, I am not a youtuber </h6>
+  <h2>I also like playing games <h2>
+  <p style="color:red;">I am learning more on html and ruby. </p>
 
- <ol>
-    <li>https://pokemondb.net/</li>
-    <li>https://hangouts.google.com/</li>
-    <li>https://www.tiktok.com/?lang=en</li> 
-</ol>
-<h3> that was an ordered list </h3>
+  <p style="color:red;"> The links below are the pokemon sites I like.</p>
 
-
-
-<ul>
- <li>https://pokemondb.net/</li>
- <li>https://hangouts.google.com/</li>
- <li>https://www.tiktok.com/?lang=en</li>
+  <ul>
+    <li>
+      <a href="https://www.pokemon.com/us/pokemon-tcg/" target="_blank">The pokemon link</a>
+    </li>
+    <li>
+      <a href="https://search.brave.com/images?q=pokemon+decks&source=web" target="_blank"> pokemon cards I search up</a>
+    </li>
 </ul>
+<h3 style="color:purple;"> My favorite pokemon card is Mewtwo & Mew tag team</h3>
+<h4 style="color:green;"> here is a picture of what I am talking about</h4>
+<img src="https://i5.walmartimages.com/asr/8faa7f15-7c73-4850-9519-fed6f2794051_1.4b717e160375ee4ce13ce0372352fad8.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff">
+<p>I like pokemon cards because they look cool and you can make a deck.
+   A deck is a combination of 60 pokemon cards you use to battle, I can't teach how play pokemon cards
+ or make a deck.</p>
+<h6>I can't teach you beacuse it is to compilcated for me</h6>
+ <p>Here is two videos that can teach you how to make a deck and how to play pokemon.</p>
+<iframe width="806" height="453"
+src="https://www.youtube.com/embed/cBSzJTk1Hik"
+title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+<iframe width="806"
+height="453"
+src="https://www.youtube.com/embed/WMJnJVW5dNU"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<h3> that was an unordered list </h3>
-<h3> these are hyper links below, they are used for shortcuts to different websites </h3>
+<h2 style="color:cyan;"> I also have a roblox account, here is the link to my profile.</h2>
+<h3><a href="https://www.roblox.com/users/1863282281/profile" target="_blank">The ROBLOX link</a></h3><body>
 
-  <li><a href="https://pokemondb.net">This is a link to the pokemon site !</a></li> 
-  <li><a href="https://hangouts.google.com">This is a link to the hangouts site !</a></li> 
-  <li><a href="https://www.tiktok.com">This is a link to the tictok site !</a></li>
-    
-   <h3> there is an <p></p> code, but IDK what it does </h3>
-  
-  <h2> you can test your code at the link below </h2>
-  <li>https://codepad.co/playground</li>
+<h3>if you play ROBLOX, can you please play my games by clicking or pressing on the creations button thank you if you are or going to play my ROBLOX games
+</h3>
+
+<p> oh if you don't know what roblox is,</p>
+
+<p>Here is what I will tell you</p>
+
+<h3>search it up</h3>
+
+<h1>Here is some random stuff I put</h1>
+
+    <h2>A Funny Animated GIF I Found</h2>
+    <img src="https://gifimage.net/wp-content/uploads/2017/07/funny-animal-gif-3.gif" alt="funny GIF" width="50%">
+
+
+
+
+    <h2> Since it is COVID right now in 2022 so stay in quarantine and stay strong! </h2>
+<h4>A video I found</h4>
+    <iframe width="1010" height="568" src="https://www.youtube.com/embed/QSQwZlRMVAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+</body>
+</html>
+
